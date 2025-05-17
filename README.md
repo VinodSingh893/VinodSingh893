@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects related to DS 
-- 📫 How to reach me rawatvinodsingh60@gmailo.com 
+- 📫 How to reach me rawatvinodsingh60@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 
